@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1655219970 source:d:\qt¡∑œ∞\cpp-1\main.cpp
+	<iostream>
+	"brass.h"
+
+1653568618 d:\qt¡∑œ∞\cpp-1\function.h
+
+1653568919 source:d:\qt¡∑œ∞\cpp-1\function.cpp
+	<iostream>
+	"function.h"
+
+1652525324 source:d:\qt¡∑œ∞\cpp-1\test.cpp
+
+1652700726 d:\qt¡∑œ∞\cpp-1\test.h
+
+1653555207 d:\qt¡∑œ∞\cpp-1\stock00.h
+	<string>
+
+1653555199 source:d:\qt¡∑œ∞\cpp-1\stock00.cpp
+	<iostream>
+	"stock00.h"
+
+1653565140 source:d:\qt¡∑œ∞\cpp-1\mytime1.cpp
+	<iostream>
+	"mytime1.h"
+
+1653565095 d:\qt¡∑œ∞\cpp-1\mytime1.h
+
+1653567637 d:\qt¡∑œ∞\cpp-1\mytime2.h
+	<iostream>
+
+1653568125 source:d:\qt¡∑œ∞\cpp-1\mytime2.cpp
+	"mytime2.h"
+
+1653726302 source:d:\qt¡∑œ∞\cpp-1\stringbad.cpp
+	<cstring>
+	"stringbad.h"
+
+1653726176 d:\qt¡∑œ∞\cpp-1\stringbad.h
+	<iostream>
+
+1653741355 d:\qt¡∑œ∞\cpp-1\string1.h
+	<iostream>
+
+1653741361 source:d:\qt¡∑œ∞\cpp-1\string1.cpp
+	<cstring>
+	"String1.h"
+
+1653830428 d:\qt¡∑œ∞\cpp-1\tabtnne1.h
+	<string>
+
+1653831422 source:d:\qt¡∑œ∞\cpp-1\tabteen.cpp
+	"tabtnne1.h"
+	<iostream>
+
+1653895593 source:d:\qt¡∑œ∞\cpp-1\brass.cpp
+	<iostream>
+	"brass.h"
+
+1654334220 d:\qt¡∑œ∞\cpp-1\brass.h
+
